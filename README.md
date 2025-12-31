@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaut1ham](https://github.com/gaut1ham)
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+- 📝 I regularly write articles on [Coming soon]
 
 - 💬 Ask me about **Python scripting Cybersecurity fundamentals Basic attack simulations & defenses**
 
 - 📫 How to reach me **📧 gkb8097@gmail.com**
 
-- 📄 Know about my experiences [Resume — coming soon](Resume — coming soon)
+- 📄 Know about my experiences [Resume — coming soon]
 
 - ⚡ Fun fact **I enjoy breaking things to understand how to secure them better.**
 <p align="center">
